@@ -17,5 +17,7 @@ public class ToursPageTest extends DriverBase {
 
         homePage.loadHomePage();
         toursPage.blueTour();
+        toursPage.rockenbauerTour();
+        toursPage.alfoldTour();
     }
 }
